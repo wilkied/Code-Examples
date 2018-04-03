@@ -1,13 +1,12 @@
 /*
-**	Author: Debra Wilkie
-**	Class:  CS372 Intro to Computer Networks
+**  Author: Debra Wilkie
+**  Class:  CS372 Intro to Computer Networks
 **  Date: October 29, 2017
-**	Project Requirements: Server side chat program in java; Client side chat program in c
-**	This program performs the server side of a chat program. It accepts a port number
+**  Project Requirements: Server side chat program in java; Client side chat program in c
+**  This program performs the server side of a chat program. It accepts a port number
 **  The connection sets up a server socket and sets up an input and output stream
 **  It waits for the client to connect and replies with the handle: JavaMan>
-**  Once a message is received it can reply until the command "\quit"
-**	at which point the server port will be disconnected.
+**  Once a message is received it can reply until the command "\quit" at which point the server port will be disconnected.
 */
 
 import java.io.*;
