@@ -1,9 +1,9 @@
 <!--
-**	Author: Debra Wilkie  
+**  Author: Debra Wilkie  
 **  Class: CS340 Intro to Databases
 **  Date: November 29, 2016
-**	Project Requirements: Create a database driven website using HTML, PHP and MySQL
-**	This is the main page of the website with the PHP displaying the information stored in the MySQL database
+**  Project Requirements: Create a database driven website using HTML, PHP and MySQL
+**  This is the main page of the website with the PHP displaying the information stored in the MySQL database
 -->
 
 
