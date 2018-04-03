@@ -1,13 +1,12 @@
 /*
-**	Author: Debra Wilkie
-**	Class:  CS372 Intro to Computer Networks
+**  Author: Debra Wilkie
+**  Class:  CS372 Intro to Computer Networks
 **  Date: October 29, 2017
-**	Project Requirements: Client side chat program in c; Server side chat program in java
-**	This program performs the client side of a chat program. It accepts localhost and the server port
+**  Project Requirements: Client side chat program in c; Server side chat program in java
+**  This program performs the client side of a chat program. It accepts localhost and the server port
 **  The connection sets up a server address struct and sets up a socket
 **  It connects to the server and begins a chat with the handle: Coolc>
-**  Once a message is received the server it can reply until the command "\quit"
-**	at which point the client will be disconnected.
+**  Once a message is received the server it can reply until the command "\quit" at which point the client will be disconnected.
 */
 
 #include <stdio.h>
