@@ -1,2 +1,2 @@
 # Code-Examples
-These files are examples my coding in various languages. Some are part of a larger group of files and some are stand alone codes.
+These files are examples of code I have written in various programming languages for project requirements in several OSU computer progamming classes.  While some of the code is stand alone, the majority are selections extracted from completed projects and therefore can not be compiled on their own.  They are meant to serve as a illustration of my programming skills. 
