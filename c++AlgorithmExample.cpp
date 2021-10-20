@@ -1,7 +1,5 @@
 /*  
 ** Author: Debra Wilkie
-** Class: CS325 Algorithms
-** Date:  October 22, 2017 
 ** Project: Last-to-Start Algorithm
 ** Using the greedy algorithm to provide an optimal solution for scheduling activities from an input file
 */
