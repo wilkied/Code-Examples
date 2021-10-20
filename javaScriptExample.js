@@ -1,7 +1,5 @@
 /*
 ** Author: Debra Wilkie
-** Class:  CS467 Capstone Project
-** Date: March 15, 2018
 ** Group Project: Build a Heroku website and PostgresSQL database to create Employee Recognition Awards
 ** This is the create-award javascript file utilizing node.js, handlebars, express, and nodeMailer
 ** Users input the name, date, award type, the program updates the tex file and creates and emails a PDF
