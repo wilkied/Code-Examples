@@ -1,6 +1,4 @@
 ; Author:	Debra Wilkie			
-; Class: CS271 Computer Architecture and Assembly Language	
-; Date: November 22, 2015
 ; Description:  A program to create an array of random generated integers.
 ;	The program is introduced, the user is asked to enter a number between 10 and 200.
 ;	The program will generate that many numbers and then display them 10 per line.
