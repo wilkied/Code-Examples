@@ -1,7 +1,5 @@
 #
 # Author: Debra Wilkie
-# Class:  CS496 Mobile and Cloud Software Development
-# Date: March 15, 2018
 # Project: Create an API utilizing Google Platform WebApp2 to organize boats and slips
 # Boats and slips can be created, modified and deleted
 # Boats are assigned a slip or at sea, reassigning a boat or slip updates the status via a single API call
