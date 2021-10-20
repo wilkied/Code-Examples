@@ -1,7 +1,5 @@
 /* 
 -- AUTHOR: Debra Wilkie
--- CLASS:  CS340 Intro to Databases
--- DATE: March 11, 2016
 -- This is an example of SQL database queries and table creation
 */
 
