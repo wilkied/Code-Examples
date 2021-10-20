@@ -1,7 +1,5 @@
 /**************************************************************************
 # AUTHOR: Debra Wilkie
-# CLASS: CS362 Software Engineering II
-# DATE: October 14, 2016
 # This is an example of JUnit testing for a Blackjack game simulation 
 *************************************************************************/
 
