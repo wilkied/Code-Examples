@@ -1,7 +1,5 @@
 /*
 **  Author: Debra Wilkie
-**  Class:  CS372 Intro to Computer Networks
-**  Date: October 29, 2017
 **  Project Requirements: Client side chat program in c; Server side chat program in java
 **  This program performs the client side of a chat program. It accepts localhost and the server port
 **  The connection sets up a server address struct and sets up a socket
